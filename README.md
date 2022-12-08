@@ -1,4 +1,4 @@
-#Welcome to My Github!
+# Welcome to My Github!
   
   My name Casstiel Pi, I'm a software engineer graduated from Cal Poly Pomona with BS degree in Computer information systems, then joined app academy to further strengthen my technical skills.
 
@@ -19,3 +19,14 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CasstielP&show_icons=true&theme=merko)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CasstielP&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+## projects
+
+### airbpib
+live link: https://airbpibcpi.herokuapp.com/
+
+### robinhold
+live link: https://rothchildhood.onrender.com/
+
+### Carbs & Me
+live link: https://carbsandme.onrender.com/
