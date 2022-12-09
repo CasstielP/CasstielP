@@ -30,3 +30,10 @@ live link: https://rothchildhood.onrender.com/
 
 ### Carbs & Me
 live link: https://carbsandme.onrender.com/
+
+
+
+## Contact me
+![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
+![image](https://img.shields.io/badge/AngelList-000000?style=for-the-badge&logo=AngelList&logoColor=white)
